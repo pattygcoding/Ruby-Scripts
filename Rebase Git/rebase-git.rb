@@ -20,6 +20,4 @@ def rebase_git(branch = nil)
   puts "\e[32m#{complete_msg}\e[0m"
 end
 
-# Call it like this:
-# rebase_git(ARGV[0])
 rebase_git(ARGV[0])
