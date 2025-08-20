@@ -5,6 +5,6 @@ This script counts the number of files in the current directory and its subdirec
 - `--includenode`: Include files in the `node_modules` directory.
 
 ### Example Usage
-```
+```ruby
 ruby count_files.rb
 ```
